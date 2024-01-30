@@ -1,0 +1,7 @@
+com\ms\InventoryService\Model\Inventory.class
+com\ms\InventoryService\Controller\InventoryController.class
+com\ms\InventoryService\DTO\InventoryResponse.class
+com\ms\InventoryService\Repository\InventoryRepository.class
+com\ms\InventoryService\Service\InventoryService.class
+com\ms\InventoryService\InventoryServiceApplication.class
+com\ms\InventoryService\DTO\InventoryResponse$InventoryResponseBuilder.class

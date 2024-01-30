@@ -1,0 +1,11 @@
+D:\prep\microservices-parent\order-service\src\main\java\com\ms\OrderService\Controller\OrderController.java
+D:\prep\microservices-parent\order-service\src\main\java\com\ms\OrderService\event\OrderPlacedEvent.java
+D:\prep\microservices-parent\order-service\src\main\java\com\ms\OrderService\DTO\OrderRequest.java
+D:\prep\microservices-parent\order-service\src\main\java\com\ms\OrderService\DTO\OrderLineItemsDto.java
+D:\prep\microservices-parent\order-service\src\main\java\com\ms\OrderService\Repository\OrderRepository.java
+D:\prep\microservices-parent\order-service\src\main\java\com\ms\OrderService\Service\OrderService.java
+D:\prep\microservices-parent\order-service\src\main\java\com\ms\OrderService\Model\Order.java
+D:\prep\microservices-parent\order-service\src\main\java\com\ms\OrderService\OrderServiceApplication.java
+D:\prep\microservices-parent\order-service\src\main\java\com\ms\OrderService\DTO\InventoryResponse.java
+D:\prep\microservices-parent\order-service\src\main\java\com\ms\OrderService\Model\OrderLineItems.java
+D:\prep\microservices-parent\order-service\src\main\java\com\ms\OrderService\config\WebClientConfig.java

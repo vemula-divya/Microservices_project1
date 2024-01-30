@@ -1,0 +1,7 @@
+D:\prep\microservices-parent\product-service\src\main\java\com\ms\productservice\ProductserviceApplication.java
+D:\prep\microservices-parent\product-service\src\main\java\com\ms\productservice\DTO\ProductRequest.java
+D:\prep\microservices-parent\product-service\src\main\java\com\ms\productservice\model\Product.java
+D:\prep\microservices-parent\product-service\src\main\java\com\ms\productservice\Repository\ProductRepository.java
+D:\prep\microservices-parent\product-service\src\main\java\com\ms\productservice\Controller\ProductController.java
+D:\prep\microservices-parent\product-service\src\main\java\com\ms\productservice\Service\ProductService.java
+D:\prep\microservices-parent\product-service\src\main\java\com\ms\productservice\DTO\ProductResponse.java

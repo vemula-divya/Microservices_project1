@@ -1,0 +1,14 @@
+com\ms\OrderService\Model\Order.class
+com\ms\OrderService\Model\OrderLineItems.class
+com\ms\OrderService\Controller\OrderController.class
+com\ms\OrderService\event\OrderPlacedEvent.class
+com\ms\OrderService\Model\Order$OrderBuilder.class
+com\ms\OrderService\OrderServiceApplication.class
+com\ms\OrderService\Model\OrderLineItems$OrderLineItemsBuilder.class
+com\ms\OrderService\config\WebClientConfig.class
+com\ms\OrderService\Repository\OrderRepository.class
+com\ms\OrderService\DTO\OrderRequest.class
+com\ms\OrderService\DTO\InventoryResponse$InventoryResponseBuilder.class
+com\ms\OrderService\DTO\InventoryResponse.class
+com\ms\OrderService\DTO\OrderLineItemsDto.class
+com\ms\OrderService\Service\OrderService.class
